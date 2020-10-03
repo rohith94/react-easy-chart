@@ -68,7 +68,7 @@
     "karma-webpack": "^1.7.0",
     "mocha": "^3.2.0",
     "moment": "^2.11.1",
-    "open": "0.0.5",
+    "open": "6.0.0",
     "phantomjs-polyfill": "0.0.2",
     "phantomjs-prebuilt": "2.1.14",
     "prop-types": "^15.6.0",
